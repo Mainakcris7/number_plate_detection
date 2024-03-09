@@ -36,7 +36,7 @@ python -m streamlit run number_plate_detect.py
 
 
 
-## Link for the dataset and Kaggle Notebook
+## Link for the dataset
 
 [Roboflow](https://universe.roboflow.com/augmented-startups/vehicle-registration-plates-trudk/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 
