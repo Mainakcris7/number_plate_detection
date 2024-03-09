@@ -4,7 +4,7 @@ Introducing my latest project, an Automatic Number Plate Recognition (ANPR) syst
     
 You can find some test [Images](/Images) and [Videos](/Videos) in the repository itself.
 
-All the detected number plates will be stored in `number_plates.txt` automatically.
+All the results will be stored in [Detections](./Detections) automatically.
 
 To execute the streamlit application -
 ```
